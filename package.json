@@ -1,0 +1,14 @@
+{
+  "name": "decagon-classroom-mock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cchigo/decagon-classroom-mock.git",
+  "author": "cchigo <ccasadu15@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
